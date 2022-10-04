@@ -59,6 +59,7 @@ pumpkins by [ashwoodall](https://github.com/ashwoodall)
 border-rainbow by [brunobolting](https://github.com/brunobolting)
 
 [Blue Triangular](https://i.imgur.com/PjbXvfn.gifv](https://i.imgur.com/PjbXvfn.gif)
+
 Blue-Triangular by [Vaishnavi](https://github.com/vaishnavi-nawghare)
 
 ## Notable Contributions
