@@ -58,7 +58,7 @@ pumpkins by [ashwoodall](https://github.com/ashwoodall)
 ![border rainbow by brunobolting](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/border-rainbow.gif)
 border-rainbow by [brunobolting](https://github.com/brunobolting)
 
-[Blue Triangular]([https://i.imgur.com/PjbXvfn.gifv](https://i.imgur.com/PjbXvfn.gif))
+[Blue Triangular](https://i.imgur.com/PjbXvfn.gifv](https://i.imgur.com/PjbXvfn.gif)
 Blue-Triangular by [Vaishnavi](https://github.com/vaishnavi-nawghare)
 
 ## Notable Contributions
